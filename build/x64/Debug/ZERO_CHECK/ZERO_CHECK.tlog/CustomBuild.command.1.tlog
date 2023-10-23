@@ -1,0 +1,10 @@
+^C:\TODOLISTAPP\BUILD\CMAKEFILES\67ECCE2F36DAF0227924EAEC34008F29\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/ToDoListApp -BC:/ToDoListApp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/ToDoListApp/build/TodoList.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

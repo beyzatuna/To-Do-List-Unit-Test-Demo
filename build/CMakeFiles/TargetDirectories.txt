@@ -1,0 +1,9 @@
+C:/ToDoListApp/build/CMakeFiles/Experimental.dir
+C:/ToDoListApp/build/CMakeFiles/Nightly.dir
+C:/ToDoListApp/build/CMakeFiles/Continuous.dir
+C:/ToDoListApp/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/ToDoListApp/build/CMakeFiles/TodoList.dir
+C:/ToDoListApp/build/CMakeFiles/PACKAGE.dir
+C:/ToDoListApp/build/CMakeFiles/RUN_TESTS.dir
+C:/ToDoListApp/build/CMakeFiles/ALL_BUILD.dir
+C:/ToDoListApp/build/CMakeFiles/ZERO_CHECK.dir
